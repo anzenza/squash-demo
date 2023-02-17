@@ -1,1 +1,7 @@
 This is the first commit
+
+Adding second commit
+
+Adding third commit
+
+Adding fourth commit
